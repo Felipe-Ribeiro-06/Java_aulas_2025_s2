@@ -32,6 +32,7 @@ public class testaFuncionarios {
         F2.valorAumento(F2.salarioFuncionario);
         
         System.out.println("O valor com auemnto é de " + F2.salarioAtualizado);
+        System.out.println("----------------------------");
     }
     
 }
